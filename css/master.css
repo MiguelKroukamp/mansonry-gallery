@@ -1,0 +1,167 @@
+body {
+  font-family:Arial,"Hiragino Kaku Gothic Pro W3",Meiryo,sans-serif;
+  background-color:#333;
+  color: #fff;
+  text-align: center;
+  }
+
+ .container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px,1fr));
+  grid-auto-rows: 320px;
+  }
+  
+.item1 {
+  background-image: url(../img/natheer.jpg); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  grid-row-end: span 2;
+}
+
+.item2 {
+  background-image: url(../img/taariq.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.item3 {
+  background-image: url(../img/zainab.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  grid-row-end: span 2;
+}
+
+.item4 {
+  background-image: url(../img/josh.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.item5 {
+  background-image: url(../img/michael.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  grid-row-end: span 2;
+}
+
+.item6 {
+  background-image: url(../img/jessie.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.item7 {
+  background-image: url(../img/gedeon.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  grid-row-end: span 2;
+}
+
+.item8 {
+  background-image: url(../img/urick.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.item9 {
+  background-image: url(../img/daniel.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  grid-column-end: span 2;
+}
+
+.item10 {
+  background-image: url(../img/ashton.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  grid-row-end: span 2;
+}
+
+.item11 {
+  background-image: url(../img/shakeel.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.item12 {
+  background-image: url(../img/shanton.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  grid-row-end: span 2;
+}
+
+.item13 {
+  background-image: url(../img/gcobisa.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.item14 {
+  background-image: url(../img/warnita.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.item15 {
+  background-image: url(../img/evan.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.item16 {
+  background-image: url(../img/taufeeq.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.item17 {
+  background-image: url(../img/miguel.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.item18 {
+  background-image: url(../img/marlon.jpg);
+  background-repeat: no-repeat;
+}
+
+.item19 {
+  background-image: url(../img/reagan.JPG);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.item20 {
+  background-image: url(../img/sheldon.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  grid-row-end: span 2;
+}
+
+.item21 {
+  background-image: url(../img/tyrone.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  grid-row-end: span 2;
+}
+
+.item22 {
+  background-image: url(../img/litha.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  grid-row-end: span 2;
+}
+
+.item23 {
+  background-image: url(../img/kaylem.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  grid-row-end: span 2;
+}
+
+.item24 {
+  background-image: url(../img/john-paul.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  grid-column-end: span 2;
+}
